@@ -1,0 +1,4 @@
+erro_intune.log
+maquinas_seriais/
+__pycache__/
+.env
